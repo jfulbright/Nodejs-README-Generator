@@ -82,7 +82,7 @@ function init() {
 
         const READMEContent = generateMarkdown(answers, license);
         
-        fs.writeFile('README.MD', READMEContent , (err) =>
+        fs.writeFile('README.md', READMEContent , (err) =>
         err ? console.error(err) : console.log('README.md file created!')
         )
     });
