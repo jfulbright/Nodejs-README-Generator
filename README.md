@@ -2,8 +2,7 @@
   [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
 ## Description:
-This is a command-line application using Node.js that dynamically generates a professional README.md file from a user's input using the Inquirer package.
-
+This is a command-line application using Node.js that dynamically generates a professional README.md file from a user's input using the Inquirer package. [Demo Video](https://drive.google.com/file/d/1D9i_dbqu3gE4FaqDpxlr14aYbMkyOc_f/view)
 ## Table of Contents:
 - [Project](#project)
   - [Description:](#description)
@@ -23,12 +22,13 @@ To install this application, you'll need to run Node.js locally in a terminal an
 ## Usage
 _________________
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+Use Case: When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+
+
 
 ## Credits
 _________________
 * README badges pulled from [https://naereen.github.io/badges/](https://naereen.github.io/badges/)
-* 
 
 ## Questions
   _________________
